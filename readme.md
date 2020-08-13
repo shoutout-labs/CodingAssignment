@@ -44,10 +44,6 @@ Please **go though all points before you start** the assignment.
 
    Yes, you can. But you MUST mention the source location in the comments of the code. 
 
-4. What will be the marking criteria?
-
-   We will look at your approach, clarity of the code, usability of the application for a novice user, quality of the solution. (think like a QA person)
-
 5. I don't have a cloud location to deploy the solution. What should I do?
 
    We encourage you to deploy the solution in a cloud location. It will be a task of the project. You may find free hosting facilities. Ex: Google is providing free $300 credits for all new users. You can have a 
