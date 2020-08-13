@@ -2,25 +2,28 @@ Welcome to the code assignment.
 
 ###### Task:
 
-Your task is developing a small search engine which provides the 3 best matching TV series names for a given tv series name/ or part. List of the TV series names 
-are provided in resource/data.json file. Use content of that file as the knowledge base. You can devide the task into the following sub tasks.
+Your task is developing a small search engine that provides the 3 best matching TV series names for a given tv series name/ or part. A list of the TV series names is provided in the resource/data.json file. Use the content of that file as the knowledge base. You can divide the task into the following subtasks.
 
 1. Develop an application to provide (return) the 3 best matching TV series names for a given input
 2. Expose that application as an API (Use GET method)
-3. Develop a simple web page to frontend users. It should contain a input box and a search button. When 
-   a user types a name/part of the name of a tv series, and click search button, it should show the 3 best matching TV
+3. Develop a simple web page for frontend users. It should contain an input box and a search button. When 
+   a user types a name/part of the name of a tv series, and click the search button, it should show the 3 best matching TV
    series names from the provided data.json file
    
    Ex: This is an example. 
-       **Note**: Your results may be different.
+       
+     **Note**: Your results may be different.
      
      **User input**: games thron
      
-     **results**: 'Game of Thrones', 'Maron', 'Backstrom'
+     **results**: Game of Thrones, Maron, Backstrom
      
-Solution delivery:
-     1. Deploy your web page online (preferred way) and send us the URL. if you are unable to deploy the frontend in an online location, send us a documents with instruction to start the frontend/backend servers in a local machine.
-     2. Make a zip or tar file of your entire project and email it to malintha@shoutout.ai address
+###### Solution delivery:
+
+ There are two tasks
+
+   1. Deploy your web page online (preferred way) and send us the URL. If you are unable to deploy the frontend in an online location, send us a document with instructions to start the front end/back-end servers in a local machine.
+   2. Make a zip or tar file of the entire project and email it to malintha@shoutout.ai
 
 Deadline: You have 3 days to deliver the task. 
 
@@ -35,7 +38,7 @@ Please **go though all points before you start** the assignment.
 
 2. Can I use existing libraries?
 
-    Yes, please. We encourage you to use any existing lubraries rather than re-inventing the wheel.
+    Yes, please. We encourage you to use any existing libraries rather than re-inventing the wheel.
 
 3. Can I take code pieces from the internet?
 
@@ -45,15 +48,14 @@ Please **go though all points before you start** the assignment.
 
    We will look at your approach, clarity of the code, usability of the application for a novice user, quality of the solution. (think like a QA person)
 
-5. I dont have a cloud location to deploy the solution. What should I do?
+5. I don't have a cloud location to deploy the solution. What should I do?
 
-   We encourage you to deploy the solution in a cloud location. It will be a task of the project. You 
-   may find free hsoting facilities. Ex: Google is providing free $300 credits for all new users. You can have a 
+   We encourage you to deploy the solution in a cloud location. It will be a task of the project. You may find free hosting facilities. Ex: Google is providing free $300 credits for all new users. You can have a 
    look at https://cloud.google.com/free. If you have questions regarding the deployments, we are happy to help. Please reach 
    us by email malintha@shoutout.ai
    
-   Alternative is sending us a documentation with steps of deploying the entrire solution in a local machine. (We dont recommend this method.)
+   The alternative is sending us documentation with steps of deploying the entire solution in a local machine. (We don't recommend this method.)
    
 6. I have questions/ doubts about the task. What should I do?
 
-   You can always write us. Please email your concerns during the task time window to malintha@shoutout.ai. 
+   You can always write to us. Please email your concerns during the task time window to malintha@shoutout.ai. 
