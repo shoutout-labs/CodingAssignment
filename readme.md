@@ -2,7 +2,7 @@ Welcome to the code assignment.
 
 ###### Task:
 
-Your task is developing a small search engine that provides the 3 best matching TV series names for a given tv series name/ or part. A list of the TV series names is provided in the resource/data.json file. Use the content of that file as the knowledge base. You can divide the task into the following subtasks.
+Your task is developing a small search engine that provides the 3 best matching TV series names for a given tv series name/ or part. A list of the TV series names is provided in the `resource/data.json` file. Use the content of that file as the knowledge base. You can divide the task into the following subtasks.
 
 1. Develop an application to provide (return) the 3 best matching TV series names for a given input
 2. Expose that application as an API (Use GET method)
@@ -10,25 +10,25 @@ Your task is developing a small search engine that provides the 3 best matching 
    a user types a name/part of the name of a tv series, and click the search button, it should show the 3 best matching TV
    series names from the provided data.json file
    
-   Ex: This is an example. 
+   This is an example. 
        
      **Note**: Your results may be different.
      
-     **User input**: games thron
+     **User input**: _games thron_
      
-     **results**: Game of Thrones, Maron, Backstrom
+     **result**: 1. _Game of Thrones, 2. Maron, 3. Backstrom_
      
 ###### Solution delivery:
 
  There are two tasks
 
-   1. Deploy your web page online (preferred way) and send us the URL. If you are unable to deploy the frontend in an online location, send us a document with instructions to start the front end/back-end servers in a local machine.
-   2. Make a zip or tar file of the entire project and email it to malintha@shoutout.ai
+   1. Deploy the  frontend web page online (preferred way) and send us the URL. If you are unable to deploy the frontend in an online location, send us a document with the instructions to startup the front end/backend servers in a local machine.
+   2. Make a zip or tar file of the entire source code and email it to malintha@shoutout.ai
 
 Deadline: You have 3 days to deliver the task. 
 
-           Start time: 2020.08.14 12PM
-           End time: 2020.08.17 12pm    
+           Start time: 2020.08.14:12PM
+           End time: 2020.08.17:12pm    
 
 Please **go though all points before you start** the assignment.
 
@@ -56,6 +56,10 @@ Please **go though all points before you start** the assignment.
    
    The alternative is sending us documentation with steps of deploying the entire solution in a local machine. (We don't recommend this method.)
    
-6. I have questions/ doubts about the task. What should I do?
+6. I have questions/ doubts about the task. What shall I do?
 
-   You can always write to us. Please email your concerns during the task time window to malintha@shoutout.ai. 
+   You can always write to us. Please email your concerns during the task time window to malintha@shoutout.ai
+   
+7. I couldn't finish the task before the deadline. What shall I do?
+
+   Don't worry. Email us your current code as it is.
