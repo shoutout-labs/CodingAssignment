@@ -23,7 +23,7 @@ Your task is developing a small search engine that provides the 3 best matching 
  There are two tasks
 
    1. Deploy the  frontend web page online (preferred way) and send us the URL. If you are unable to deploy the frontend in an online location, send us a document with the instructions to startup the front end/backend servers in a local machine.
-   2. Make a zip or tar file of the entire source code and email it to careers@shoutout.ai
+   2. Make a zip or tar file of the entire source code and email it to support@shoutout.ai
 
 Deadline: You have 3 days to deliver the task. 
 
@@ -48,13 +48,13 @@ Please **go though all points before you start** the assignment.
 
    We encourage you to deploy the solution in a cloud location. It will be a task of the project. You may find free hosting facilities. Ex: Google is providing free $300 credits for all new users. You can have a 
    look at https://cloud.google.com/free. If you have questions regarding the deployments, we are happy to help. Please reach 
-   us by email careers@shoutout.ai
+   us by email support@shoutout.ai
    
    The alternative is sending us documentation with steps of deploying the entire solution in a local machine. (We don't recommend this method.)
    
 6. I have questions/ doubts about the task. What shall I do?
 
-   You can always write to us. Please email your concerns during the task time window to careers@shoutout.ai
+   You can always write to us. Please email your concerns during the task time window to support@shoutout.ai
    
 7. I couldn't finish the task before the deadline. What shall I do?
 
