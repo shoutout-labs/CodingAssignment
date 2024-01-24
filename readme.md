@@ -25,16 +25,16 @@ Your task is developing a small search engine that provides the 3 best matching 
    1. Deploy the  frontend web page online (preferred way) and send us the URL. If you are unable to deploy the frontend in an online location, send us a document with the instructions to startup the front end/backend servers in a local machine.
    2. Make a zip or tar file of the entire source code and email it to support@shoutout.ai
 
-Deadline: You have 3 days to deliver the task. 
+Deadline: You have 2 days to deliver the task. 
 
-           Start time: 2020.08.14:1800h
-           End time: 2020.08.17:1800h   
+           Start time: 2024.01.24:1800h
+           End time: 2024.01.26:1800h   
 
 Please **go though all points before you start** the assignment.
 
 1. What is the development language?
 
-    You can use any coding language. No restrictions
+    Javascript - Use MERN stack 
 
 2. Can I use existing libraries?
 
@@ -48,7 +48,7 @@ Please **go though all points before you start** the assignment.
 
    We encourage you to deploy the solution in a cloud location. It will be a task of the project. You may find free hosting facilities. Ex: Google is providing free $300 credits for all new users. You can have a 
    look at https://cloud.google.com/free. If you have questions regarding the deployments, we are happy to help. Please reach 
-   us by email support@shoutout.ai
+   us by email careers@getshoutout.com
    
    The alternative is sending us documentation with steps of deploying the entire solution in a local machine. (We don't recommend this method.)
    
