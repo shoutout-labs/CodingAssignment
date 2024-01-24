@@ -23,7 +23,7 @@ Your task is developing a small search engine that provides the 3 best matching 
  There are two tasks
 
    1. Deploy the  frontend web page online (preferred way) and send us the URL. If you are unable to deploy the frontend in an online location, send us a document with the instructions to startup the front end/backend servers in a local machine.
-   2. Make a zip or tar file of the entire source code and email it to support@shoutout.ai
+   2. Make a zip or tar file of the entire source code and email it to careers@getshoutout.com
 
 Deadline: You have 2 days to deliver the task. 
 
