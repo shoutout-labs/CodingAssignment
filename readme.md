@@ -27,8 +27,8 @@ Your task is developing a small search engine that provides the 3 best matching 
 
 Deadline: You have 2 days to deliver the task. 
 
-           Start time: 2024.01.24:1800h
-           End time: 2024.01.26:1800h   
+           Start time: 2024.05.07:1800h
+           End time: 2024.05.09:1800h   
 
 Please **go though all points before you start** the assignment.
 
